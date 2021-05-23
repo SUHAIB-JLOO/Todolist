@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(76, 6, 109);
+    text-align: center;
+  }
+  
+  h1 {
+    color: rgb(6, 135, 158);
+    text-align: center;
+    
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  
+#glo {
+color: rgb(206, 13, 13);
+}
